@@ -1,16 +1,15 @@
-## Hi there 👋
+# Felix R. Collazo Helgeson
 
-<!--
-**felixch9/felixch9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Columbia, SC. CompTIA Security+ ce.
 
-Here are some ideas to get you started:
+I build small, working tools and I am looking for an entry-level cybersecurity or IT support seat. I do not have a SOC job history. I do have a current Security+ badge, a working product prototype, and a habit of writing things down so the next person can follow them.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Public work
+
+- [SHOWUP](https://github.com/felixch9/showup) — home-services marketplace prototype. Live demo: [showup-wheat.vercel.app](https://showup-wheat.vercel.app). Demo mode is on purpose.
+- [home-soc-lab](https://github.com/felixch9/home-soc-lab) — independent lab for log review, triage notes, and incident write-ups.
+- [career-arsenal](https://github.com/felixch9/career-arsenal) — free training list I am actually working through.
+
+## How to reach me
+
+GitHub issues on those repos are fine. Phone and email go on applications, not here.
