@@ -1,13 +1,12 @@
 # Felix R. Collazo Helgeson
 
-Columbia, SC. CompTIA Security+ ce.
+Columbia, SC. Fully remote US. Bilingual English / Spanish.
 
-Looking for a remote junior seat in cybersecurity, IT support, or recruiting/sourcing. No SOC or help-desk title. Security+ is current. I write the work down.
+Applied AI: Copilot, agents, evals. CompTIA Security+ (SY0-701).
+
+I have not held a help-desk, SOC, or AI-engineering title. Microsoft Learn path trophies are study progress, not named exams.
 
 ## Public work
 
-- [Hire page](https://felix-hire-cats-projects-7cca8a1d.vercel.app)
-- [SHOWUP demo](https://showup-wheat.vercel.app) · [source](https://github.com/felixch9/showup)
-- [Home SOC lab](https://github.com/felixch9/home-soc-lab)
-- [Sourcing notes](https://github.com/felixch9/talent-sourcing-notes)
-- [Career notes](https://github.com/felixch9/career-arsenal)
+- [SHOWUP](https://showup-wheat.vercel.app) · [source](https://github.com/felixch9/showup) — 36-hour TypeScript marketplace prototype (not production)
+- Microsoft Learn (progress, not certs): https://learn.microsoft.com/en-us/users/fcat-5143/
